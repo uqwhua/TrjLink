@@ -9,7 +9,7 @@ Given two sets of moving objects with their historical traces (one as data, the 
 T-Drive is a publicly available dataset and can be downloaded [here](https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/).
 A small subset of T-Drive is provided in this project for testing.
 
-## Project structure
+## Project Structure
     Testing/                                  
     ├── RoadNetworkInfo/NNid2lnglat.csv        -- the road network information used for simple map-matching as the preprosseing of data
     ├── TestData-tdrive/                       -- T-Drive dataset, including 600 objects' one-week data,
