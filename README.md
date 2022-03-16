@@ -11,15 +11,15 @@ A small subset of T-Drive is provided in this project for testing.
 
 ## Project Structure
     Testing/                                  
-    ├── RoadNetworkInfo/NNid2lnglat.csv        -- the road network information used for simple map-matching as the preprosseing of data
-    ├── TestData-tdrive/                       -- T-Drive dataset, including 600 objects' one-week data,
-                                                  note that some objects could be discarded due to too few data points
+    ├── RoadNetworkInfo/NNid2lnglat.csv        -- the road network information used for simple map-matching as the data preprosseing
+    ├── TestData-tdrive/                       -- T-Drive dataset including 600 objects' one-week trajectory
+                                                  Note that some objects could be discarded due to too few data points
     src/                                      
-    ├── resources/config.properties           -- the program will read parameters here (modified according to your requirements)
-    ├── main/Main.java                        -- the entry of the program
-    ├── basic/                                -- the basic geometry defined here
-    ├── io/                                   -- read/write file
-    ├── signatures/                           -- four types of signature are provided here
+    ├── resources/config.properties            -- the program will read parameters here (modify it according to your requirements)
+    ├── main/Main.java                         -- the entry of the program
+    ├── basic/                                 -- the basic geometry is defined here
+    ├── io/                                    -- read/write file
+    ├── signatures/                            -- four types of signature are provided here
     
     libs                                      -- some external library packages that are necessary to be included in the program
     ...                 
