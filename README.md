@@ -21,7 +21,7 @@ A small subset of T-Drive is provided in this project for testing.
     ├── io/                                    -- read/write file
     ├── signatures/                            -- four types of signature are provided here
     
-    libs                                      -- some external library packages that are necessary to be included in the program
+    libs                                       -- some external library packages that are necessary to be included in the program
     ...                 
 
 ## Environment
