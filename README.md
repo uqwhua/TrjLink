@@ -33,21 +33,20 @@ If you find our algorithms or the experimental results useful, please kindly cit
 ```
 @INPROCEEDINGS{jin2019,
   author={Jin, Fengmei and Hua, Wen and Xu, Jiajie and Zhou, Xiaofang},
-  booktitle={2019 IEEE 35th International Conference on Data Engineering (ICDE)}, 
+  booktitle={Proceedings of the 35th IEEE International Conference on Data Engineering (ICDE)}, 
   title={Moving Object Linking Based on Historical Trace}, 
   year={2019},
   pages={1058-1069},
   doi={10.1109/ICDE.2019.00098}
 }
-
-@ARTICLE{jin2020,
-  author={Jin, Fengmei and Hua, Wen and Zhou, Thomas and Xu, Jiajie and Francia, Matteo and Orowska, Maria and Zhou, Xiaofang},
+@ARTICLE{jin2022,
+  author={Jin, Fengmei and Hua, Wen and Zhou, Thomas and Xu, Jiajie and Francia, Matteo and Orlowska, Maria E and Zhou, Xiaofang},
   journal={IEEE Transactions on Knowledge and Data Engineering}, 
   title={Trajectory-Based Spatiotemporal Entity Linking}, 
-  year={2020},
+  year={2022},
   volume={34},
   number={9},
-  pages={4499--4513},
+  pages={4499-4513},
   doi={10.1109/TKDE.2020.3036633}
 }
 ```
