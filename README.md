@@ -45,9 +45,9 @@ If you find our algorithms or the experimental results useful, please kindly cit
   journal={IEEE Transactions on Knowledge and Data Engineering}, 
   title={Trajectory-Based Spatiotemporal Entity Linking}, 
   year={2020},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={34},
+  number={9},
+  pages={4499--4513},
   doi={10.1109/TKDE.2020.3036633}
 }
 ```
