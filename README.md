@@ -1,6 +1,6 @@
 # TrjLink
 
-Source code for ICDE 2019 paper: [Moving Object Linking Based on Historical Trace](https://ieeexplore.ieee.org/abstract/document/8731507) and TKDE 2020 paper: [Trajectory-Based Spatiotemporal Entity Linking](https://ieeexplore.ieee.org/abstract/document/9250637)
+Source code for ICDE 2019 paper: [Moving Object Linking Based on Historical Trace](https://ieeexplore.ieee.org/abstract/document/8731507) and TKDE 2022 paper: [Trajectory-Based Spatiotemporal Entity Linking](https://ieeexplore.ieee.org/abstract/document/9250637)
 
 ## Problem Description
 Given two sets of moving objects with their historical traces (one as data, the other as query), we expect to find the top-k candidates for each object in the query set, which are highly possible to be the same individual in real life.
